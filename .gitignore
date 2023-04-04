@@ -5,7 +5,7 @@ MsmServiceImpl.java
 
 HELP.md
 target/
-webapp/
+
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
